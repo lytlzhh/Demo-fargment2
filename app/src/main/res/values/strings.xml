@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">南博会</string>
+
+    <string name="hello_world">欢迎来到红河.弥勒市阿细跳月节</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment"></string>
+    <string name="title_activity_gh">GH</string>
+</resources>

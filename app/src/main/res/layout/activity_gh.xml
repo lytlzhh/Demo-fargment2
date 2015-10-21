@@ -1,0 +1,12 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#5D8167"
+    tools:context="com.example.llw.demo_fargment2.GH">
+
+    <ImageView
+        android:layout_width="fill_parent" android:id="@+id/image1" android:background="@drawable/mm"
+        android:layout_height="fill_parent" />
+
+</RelativeLayout>
